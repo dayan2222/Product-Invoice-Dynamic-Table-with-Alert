@@ -1,0 +1,7 @@
+#tab_logic .form-control[readonly],#tab_logic_total .form-control[readonly] {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    padding: 0 10px;
+    font-size: 15px;
+}
